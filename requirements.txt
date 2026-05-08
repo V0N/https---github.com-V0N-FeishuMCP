@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+httpx
+python-dotenv
+pycryptodome
+apscheduler
+openpyxl
+pytest
+pytest-asyncio
+respx
+httpx
