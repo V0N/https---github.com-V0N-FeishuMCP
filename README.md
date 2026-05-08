@@ -58,7 +58,7 @@
 
 ```bash
 # 1. 克隆仓库
-git clone <repo-url>
+git clone https://github.com/V0N/https---github.com-V0N-FeishuMCP
 cd FeishuMCP
 
 # 2. 配置环境变量
